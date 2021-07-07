@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "184618395383",
+    "firebase_url": "https://esp32-flutter.firebaseio.com", 
+    "project_id": "esp32-flutter",
+    "storage_bucket": "esp32-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184618395383:android:fe033df9f9a3d055e595f2",
+        "android_client_info": {
+          "package_name": "com.example.tesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184618395383-ivcd9ug65bus9ue6mn4e47mrappahcjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQeHp6638W4Y6eI1I-OmtyW4XcPavpGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184618395383-ivcd9ug65bus9ue6mn4e47mrappahcjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
